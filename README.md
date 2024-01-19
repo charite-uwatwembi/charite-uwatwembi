@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **React, MongoDB and Express.**
 
-- 🤝 I’m looking for help with **learning more abt Database.**
-
 - 👨‍💻 All of my projects are available at [https://charite-uwatwembi.github.io/My_portfolio/](https://charite-uwatwembi.github.io/My_portfolio/)
 
 - 📝 I regularly write articles on [Front-End](Front-End)
@@ -20,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/twembicharite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twembicharite" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/uwatwembi charite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charite uwatwembi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/uwatwembi-charite-7a1022231/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charite uwatwembi" height="30" width="40" /></a>
 <a href="https://instagram.com/__charite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__charite" height="30" width="40" /></a>
 <a href="https://medium.com/@c uwatwembi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@c uwatwembi" height="30" width="40" /></a>
 </p>
