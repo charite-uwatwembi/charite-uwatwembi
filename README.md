@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Web Development and Tiktok.**
 
-- 📫 How to reach me **chariteuwatwembi@gmai.com**
+- 📫 How to reach me **chariteuwatwembi@gmail.com**
 
 - ⚡ Fun fact **I think i am addicted to Tiktok.**
 
