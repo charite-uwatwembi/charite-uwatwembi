@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **chariteuwatwembi@gmail.com**
 
-- ⚡ Fun fact **I think i am addicted to Tiktok.**
+- ⚡ Fun fact **I think i am a nerd.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
