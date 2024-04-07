@@ -29,5 +29,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=charite-uwatwembi&show_icons=true&locale=en&layout=compact" alt="charite-uwatwembi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=charite-uwatwembi&show_icons=true&locale=en" alt="charite-uwatwembi" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=charite-uwatwembi)](https://git.io/streak-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=charite-uwatwembi&" alt="charite-uwatwembi" /></p>
