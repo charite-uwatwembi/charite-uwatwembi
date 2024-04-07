@@ -9,11 +9,11 @@
 
 - 📝 I regularly write articles on [Front-End](Front-End)
 
-- 💬 Ask me about **Web Development and Tiktok.**
+- 💬 Ask me about **Web Development and The BigBang Theory.**
 
 - 📫 How to reach me **chariteuwatwembi@gmail.com**
 
-- ⚡ Fun fact **I think i am a nerd.**
+- ⚡ Fun fact **I think I am a nerd.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
