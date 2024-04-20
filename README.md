@@ -15,6 +15,8 @@
 
 - ⚡ Fun fact **I think I am a nerd.**
 
+  ![Codewars](https://github.r2v.ch/codewars?user=charite-uwatwembi)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/twembicharite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twembicharite" height="30" width="40" /></a>
