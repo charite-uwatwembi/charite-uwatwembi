@@ -32,4 +32,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=charite-uwatwembi&show_icons=true&locale=en" alt="charite-uwatwembi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=charite-uwatwembi&" alt="charite-uwatwembi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=charite-uwatwembi&" alt="charite-uwatwembi"/></p>
