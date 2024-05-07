@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm charite</h1>
 <h3 align="center">A passionate frontend developer from Rwanda</h3>
 
+- 👩🏾‍💻 I’m a software Engineering student **Specializing in Machine Learning and Artificial Intelligence.**
+  
 - 🔭 I’m currently working on **Learning more about web-development.**
 
-- 🌱 I’m currently learning **React, MongoDB and Express.**
+- 🌱 I’m currently learning **Flutter, MongoDB and Express.**
 
 - 👨‍💻 All of my projects are available at [https://charite-uwatwembi.github.io/My_portfolio/](https://charite-uwatwembi.github.io/My_portfolio/)
 
