@@ -3,7 +3,7 @@
 
 - 👩🏾‍💻 I’m a software Engineering student **Specializing in Machine Learning and Artificial Intelligence.**
   
-- 🔭 I’m currently working on **Learning more about web-development.**
+- 🔭 I’m currently Learning **Data Structures and Algorithms.**
 
 - 🌱 I’m currently learning **Flutter, MongoDB and Express.**
 
