@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Flutter, MongoDB and Express.**
 
-- 👨‍💻 All of my projects are available at [https://charite-uwatwembi.github.io/My_portfolio/](https://portfolio-charites-projects.vercel.app/)
+- 👨‍💻 All of my projects are available at [My_portfolio](https://portfolio-charites-projects.vercel.app/)
 
 - 📝 I regularly write articles on [Front-End](Front-End)
 
