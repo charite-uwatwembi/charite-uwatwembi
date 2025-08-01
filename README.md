@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm charite</h1>
-<h3 align="center">A passionate frontend developer from Rwanda, I love building beautiful sites</h3>
+<h3 align="center">A passionate frontend developer from Rwanda, I love building beautiful sites.</h3>
 
 - 👩🏾‍💻 I’m a software Engineering student **Specializing in Machine Learning and Artificial Intelligence.**
   
